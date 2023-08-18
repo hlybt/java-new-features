@@ -10,3 +10,4 @@ A demonstration of some notable changes and additions after Java 8
   - [Duplicate elements and keys](src/dev/hlybt/collections/DuplicateElementsKeys.java)
   - [Iteration order](src/dev/hlybt/collections/IterationOrder.java)
   - [Create unmodifiable views](src/dev/hlybt/collections/UnmodifiableViews.java)
+  - [Create immutable collections](src/dev/hlybt/collections/ImmutableCollections.java)
