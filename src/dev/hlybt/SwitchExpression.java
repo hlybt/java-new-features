@@ -8,8 +8,7 @@ public class SwitchExpression {
 			System.out.println("less apples...");
 		// No need for 'break'
 		case 5 * 10 -> System.out.println("more apples...");
-		}
-		; // Semicolon required
+		}; // Semicolon required
 	}
 
 	String returnAValue(int applesInBasket) {
