@@ -5,6 +5,7 @@ A demonstration of some notable changes and additions after Java 8
 - [Diamond operator with anonymous inner class](src/dev/hlybt/DiamondOpAnonymousInnerClass.java)
 - [Interface private methods](src/dev/hlybt/InterfacePrivateMethod.java)
 - [Pattern matching](src/dev/hlybt/PatternMatching.java)
+- [Records](src/dev/hlybt/record)
 - [Sealed classes](src/dev/hlybt/sealed)
 - [Switch expression](src/dev/hlybt/SwitchExpression.java)
 - [Try-with-resources with an effectively final resource](src/dev/hlybt/TryWResourcesEffectivelyFinalResource.java)
